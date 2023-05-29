@@ -18,7 +18,7 @@ meet but exceed their goals and expectations.
 **EDUCATION**
 
 **Software engineering(BSC), University of Portsmouth 2020- 2023** ,
-1st year average 2:1 (69.67%), 2nd year average 2:
+1st year average 2:1 (69.67%), 2nd year average 2:1
 
 - A software engineer with 3 years of experience in Javascript, Git/GitHub, HTML, CSS,
     PSQL and MongoDB looking to broaden my experience in development.
